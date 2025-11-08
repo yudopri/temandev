@@ -1,3 +1,4 @@
+<x-layouts.app title="TemanDev – Solusi Digital">
 <section class="py-20 px-6 max-w-7xl mx-auto">
 
   <!-- JUDUL -->
@@ -127,3 +128,5 @@
   }
 </script>
 </section>
+  <x-footer />
+</x-layouts.app>
